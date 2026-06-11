@@ -149,7 +149,7 @@ st.success(
 """
 )
 
-st.header("Recommendations")
+st.header("Recommendation")
 
 st.info(
 """
