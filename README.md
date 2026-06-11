@@ -4,7 +4,7 @@ A short analysis dashboard built with Streamlit that explores Titanic passenger 
 
 ## Description
 
-This dashboard presents a concise overview of Titanic survival patterns by examining passenger demographics and key factors affecting survival. It includes:
+This dashboard presents concise overview of Titanic survival patterns by examining passenger demographics and key factors affecting survival. It includes:
 
 - Overall survival metrics and passenger counts
 - Passenger distribution by class and gender
