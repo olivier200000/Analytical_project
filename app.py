@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 
-df = pd.read_csv(r"C:\Users\LENOVO\dashboard_project\venv\titanic.csv")
+df = pd.read_csv(r"titanic.csv")
 
 
 st.title("Titanic Survival Analytics Dashboard")
