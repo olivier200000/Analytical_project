@@ -80,3 +80,4 @@ The dashboard will open in your web browser and provide an interactive environme
 Olivier Dusengimana
 
 Data Analytics and Visualization Project
+You can access it via streamlit By clicking [here](https://analyticalproject-t64kmeg9bzynybfgep88kd.streamlit.app/)
